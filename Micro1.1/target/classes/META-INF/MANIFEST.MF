@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 768852
+Build-Jdk: 11.0.2
+Implementation-Title: Micro1.1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Micro1.1
+Created-By: Maven Integration for Eclipse
+
